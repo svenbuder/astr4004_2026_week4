@@ -12,12 +12,6 @@ Welcome to the teaching repository for **Week 4** of the course **ASTR4004/8004 
 - **B Astronomical Data Query Language**:  
   This notebook includes solved and unsolved exercises on how to query large data sets with the astronomical version of the Structured Query Language (SQL).
 
-- **C Statistics**:  
-  This notebook covers some statistical methods relevant to computational astronomy.
-
-- **D Plot Clinic**:  
-  In this notebook, we explore effective data visualization techniques.
-
 ### Directories
 
 - **data/**:  
