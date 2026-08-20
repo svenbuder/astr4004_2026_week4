@@ -6,11 +6,24 @@ Welcome to the teaching repository for **Week 4** of the course **ASTR4004/8004 
 
 ### Jupyter Notebooks
 
+
 - **A Preprocessing**:  
   This notebook covers some techniques for reading and preparing astronomical datasets.
 
 - **B Astronomical Data Query Language**:  
   This notebook includes solved and unsolved exercises on how to query large data sets with the astronomical version of the Structured Query Language (SQL).
+
+- **C Statistics**:  
+  This notebook covers some statistical methods relevant to computational astronomy.
+
+- **D Plotting**:  
+  In this notebook, we explore effective data visualization techniques.
+
+- **E Writing a Fit Pipeline**:  
+  An interactive notebook with individual steps to write a pipeline that fits Gaussian profiles and assesses their fit quality
+
+- **F Code Outsourcing**:  
+  A worked-through examples of how to outsource code from 1 file into several smaller and manageable ones
 
 ### Directories
 
@@ -22,6 +35,9 @@ Welcome to the teaching repository for **Week 4** of the course **ASTR4004/8004 
 
 - **latex_input/**:  
   This directory contains LaTeX files for generating scientific reports and publications using the output from the notebooks.
+
+- **outsourced_code/**:  
+  This directory contains individual code files outsourced from one large one.
 
 
 ## How to Use
